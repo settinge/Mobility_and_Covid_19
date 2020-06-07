@@ -241,6 +241,10 @@ d3.json('/fetch').then(function(data) {
 
     Plotly.newPlot("myDiv", [trace4], layout4);
 
+    var min_city_dates=country.map(city_date=>city_date.date);
+    min_city_dates.sort();
+    console.log(min_city_dates);
+
 
     // function buildChart(city_i){
     //   // load the data

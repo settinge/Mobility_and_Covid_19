@@ -54,13 +54,26 @@ def welcome():
     #     transit= {"transit_type":row[0]}
     #     transit=jsonify(transit)
     #whatever you get back from the database
-    return render_template('htm_rev.html')
+    return render_template('Pract.html')
 
     # """List all available api routes."""
     # return (
     #     f"Available Routes:<br/>"
     #     f"/api/v1.0/mobility<br/>"
 
+@app.route('/rate_of_change_visualization.html')
+def viz(): 
+    return render_template('rate_of_change_visualization.html')
+
+@app.route('/Mobility_Scores_Over_Time.html')
+def vi():
+    return render_template('Mobility_Scores_Over_Time.html')
+@app.route('/Landing.html')
+def v():
+    return render_template('Landing.html')
+@app.route('/machine_learning.html')
+def a():
+    return render_template('machine_learning.html')
  
 @app.route("/fetch")   
 def fetch():
