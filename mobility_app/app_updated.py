@@ -28,7 +28,7 @@ Base = automap_base()
 
 Base.prepare(engine, reflect=True)
 Base.classes.keys()
-Mob=Base.classes.mobility
+Mob=Base.classes.covid
 
 # Base = automap_base()
 # rds_connection_string = f"{user}:{password}@localhost:5432/mobility_db"
@@ -40,7 +40,7 @@ Mob=Base.classes.mobility
 # session = Session(engine)
 # max_date=session.query(Meas.date)
 # print(max_date)
-mob_result=engine.execute('select * from mobility')
+mob_result=engine.execute('select * from covid')
 # for row in mob_result:
 #     print(row)
     
@@ -76,7 +76,7 @@ def a():
  
 @app.route("/fetch")   
 def fetch():
-    query="select * from mobility"
+    query="select * from covid"
     data=engine.execute(query)
     mob_list=[]
     for row in data:
