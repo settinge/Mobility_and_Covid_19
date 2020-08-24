@@ -10,10 +10,10 @@ app = Flask(__name__,template_folder='template')
 
     #replace the user, password, hostname and database according to your configuration according to your information
   
-user = 'dkioumjrcbkddr'
-password = 'd446a3443ee872ddff18c5f2b2ec6b424583418abd6dd5b8b66a987f1f34bbe5'
+user = 'fnndwadhzybkmd'
+password = 'a1dc1d35a0e00e4bed93cdd9abe243c4dd462d33f649a3adaa6298b6fe38c967'
 
-rds_connection_string = f"{user}:{password}@ec2-34-204-22-76.compute-1.amazonaws.com:5432/d4t23c872s4dg3"
+rds_connection_string = f"{user}:{password}@ec2-54-156-121-142.compute-1.amazonaws.com:5432/d2tr0g56o6acrq"
 engine = create_engine(f'postgresql://{rds_connection_string}')
 # def __init__(self):
 #     self.connection = self.engine.connect()
