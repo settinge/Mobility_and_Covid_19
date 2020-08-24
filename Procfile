@@ -1,1 +1,1 @@
-web: gunicorn mobility_app.app_updated:app--log-level debug
+web: gunicorn mobility_app.app_updated:app
