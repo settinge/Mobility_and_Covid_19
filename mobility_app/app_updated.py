@@ -28,7 +28,7 @@ Base = automap_base()
 
 Base.prepare(engine, reflect=True)
 Base.classes.keys()
-Mob=Base.classes.covid
+Mob=Base.classes.mobility
 
 # Base = automap_base()
 # rds_connection_string = f"{user}:{password}@localhost:5432/mobility_db"
