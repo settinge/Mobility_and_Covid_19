@@ -41,9 +41,11 @@ Scatter Plots:
 
 # Screenshots
 
-![ScreenShot](Home_1.JPG). Shows the trend among mobility data in various countries prior to the Covid-19 lockdown and afterwards. I wanted to demonstrate a decreasing trend over time and therefore, chose this interactive line chart. 
+![ScreenShot](Home_1.JPG) Shows the trend among mobility data in various countries prior to the Covid-19 lockdown and afterwards. I wanted to demonstrate a decreasing trend over time and therefore, chose this interactive line chart. 
 
-![ScreenShot](Home_2.JPG). Shows the comparision between mobility data amount various countries over time. I used a line chart comparison because I Wanted to see how countries stacked up against each other during the onset of the pandemic. 
+![ScreenShot](Home_2.JPG) Shows the comparision between mobility data amount various countries over time. I used a line chart comparison because I Wanted to see how countries stacked up against each other during the onset of the pandemic. 
+
+![ScreenShot](Visualizations_1.JPG) Demonstrates walking scores over time in two countries against rate of change of walking scores in two countries over time. I used graphs in Matplotlib because I had a lot of graphs to display that I wanted to condense to fit on one page. 
 
 
 # Conclusions
