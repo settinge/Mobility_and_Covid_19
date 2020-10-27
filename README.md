@@ -53,6 +53,10 @@ Shows the comparision between mobility data amount various countries over time. 
 
 Demonstrates walking scores over time in two countries against rate of change of walking scores in two countries over time. I used graphs in Matplotlib because I had a lot of graphs to display that I wanted to condense to fit on one page. 
 
+![ScreenShot](ml_1.JPG) 
+
+Displays how many days based on a machine learning prediction it takes each country to flatten the Covid-19 curve. I used graphs in Matplotlib because I wanted to show the differences among countries in one view.
+
 
 # Conclusions
 - Determined the number of days it takes to flatten the coronavirus curve in various countries with existing data.
