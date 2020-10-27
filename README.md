@@ -57,6 +57,11 @@ Demonstrates walking scores over time in two countries against rate of change of
 
 Displays how many days based on a machine learning prediction it takes each country to flatten the Covid-19 curve. I used graphs in Matplotlib because I wanted to show the differences among countries in one view.
 
+![ScreenShot](ml_2.JPG) 
+
+Displays the relationship between transit scores and growth rate using my prediction model. I used Matplotlib because I thought this was the quickest way to determine the accuracy of my model.
+
+
 
 # Conclusions
 - Determined the number of days it takes to flatten the coronavirus curve in various countries with existing data.
