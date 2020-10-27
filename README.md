@@ -6,6 +6,11 @@ The relationship between mobility and covid-19 during QI of 2020 was investigate
 
 Pandas, Python, Flask, SQL, Postgres, HTML, JavaScript, CSS, Plotly, Git, Github
 
+# How to Run Code
+
+1). Copy and paste this link https://final-covid-mobility.herokuapp.com/ into your browser
+2). Enjoy!
+
 # Data
 
 - Mobility data was extracted from Apple in a csv. Mobility scores were given out of 100 depending on how frequently transit options (walking,driving,biking), would be searched in Apple Maps. 
