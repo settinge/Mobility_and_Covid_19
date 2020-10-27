@@ -8,8 +8,9 @@ Pandas, Python, Flask, SQL, Postgres, HTML, JavaScript, CSS, Plotly, Git, Github
 
 # How to Run Code
 
-1). Copy and paste this link https://final-covid-mobility.herokuapp.com/ into your browser
-2). Enjoy!
+1) Copy and paste this link https://final-covid-mobility.herokuapp.com/ into your browser
+
+2) Enjoy!
 
 # Data
 
