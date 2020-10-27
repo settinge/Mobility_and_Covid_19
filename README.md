@@ -43,6 +43,8 @@ Scatter Plots:
 
 ![ScreenShot](Home_1.JPG). Shows the trend among mobility data in various countries prior to the Covid-19 lockdown and afterwards. I wanted to demonstrate a decreasing trend over time and therefore, chose this interactive line chart. 
 
+![ScreenShot](Home_2.JPG). Shows the comparision between mobility data amount various countries over time. I used a line chart comparison because I Wanted to see how countries stacked up against each other during the onset of the pandemic. 
+
 
 # Conclusions
 - Determined the number of days it takes to flatten the coronavirus curve in various countries with existing data.
