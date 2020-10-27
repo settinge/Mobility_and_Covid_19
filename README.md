@@ -40,6 +40,7 @@ Scatter Plots:
 
 # Screenshots
 
+![ScreenShot](Home_1.JPG). Shows the trend among mobility data in various countries prior to the Covid-19 lockdown and afterwards. I wanted to demonstrate a decreasing trend over time and therefore, chose this interactive line chart. 
 
 
 # Conclusions
