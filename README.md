@@ -38,6 +38,10 @@ Scatter Plots:
 -Used growth rates and different transit types to try to predict the growth rate of the pandemic via transit, driving, and walking scores.
 -Not a strong correlation found in current model.
 
+# Screenshots
+
+
+
 # Conclusions
 - Determined the number of days it takes to flatten the coronavirus curve in various countries with existing data.
 - Did not make a prediction as to how transit, driving, and biking scores can predict the growth of the pandemic.
